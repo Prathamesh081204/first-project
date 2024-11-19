@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 struct node {
+	## I am Prathamesh	
     int coefficient;
     int exponent;
     struct node* next;
